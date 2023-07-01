@@ -1,7 +1,7 @@
 <?php
 $tel  = '06606660666';
-$name = 'Bambiracer';
-$site = 'bambiracer.ua';
+$name = ' ';
+$site = ' ';
 
 //Шаблон для товара
 
